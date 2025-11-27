@@ -10,7 +10,7 @@
 <html lang="th">
 <head>
 <meta charset="UTF-8">
-<title>Student Profile</title>
+<title> Profile</title>
 
 <!-- ฟอนต์หวานๆ -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Kanit:wght@300;400;600&display=swap" rel="stylesheet">
@@ -114,7 +114,7 @@
 <div class="container">
     <div class="card">
 
-        <div class="title">🌸 Student Profile 🌸</div>
+        <div class="title"> Profile </div>
 
         <img class="profile-img" src="pic/โปรไฟแนะนำ.jpg">
 
@@ -125,7 +125,7 @@
         <div class="info-box"><strong>แนะนำตัว:</strong> <?= $info ?></div>
 
 
-        <a class="btn" href="index.hw01.2.php">💗 งานลูป 💗</a>
+        <a class="btn" href="index.hw01.2.php"> งานลูป </a>
 
     </div>
 </div>
